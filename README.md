@@ -1,5 +1,6 @@
 # menu-pizzeria
 Pizzeria dal DON. <br>
-<p> sviluppatore A: menu pizza;</p> 
-<p>sviluppatore B: menu rosticceria;</p>
-<p>sviluppatore C: menu bevande;</p>
+<p> PM: menu pizza;</p>
+<p> sviluppatore A: menu rosticceria;</p> 
+<p>sviluppatore B: menu bevande;</p>
+<p>sviluppatore C: menu dessert;</p>
