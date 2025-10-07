@@ -1,3 +1,30 @@
-{
-	"folders": []
-}
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Rosticceria</title>
+</head>
+<body>
+
+    <header>
+        <h1>🔥 Rosticceria</h1>
+        <p>Scopri le nostre specialità calde, gustose e preparate ogni giorno con ingredienti freschi!</p>
+        <hr>
+    </header>
+
+    <main>
+        <section>
+            <h2>Le nostre delizie</h2>
+            <ul>
+                <li><strong>Arancini</strong> – Croccanti, ripieni di ragù o burro. 🍚</li>
+                <li><strong>Crocchè di patate</strong> – Fritti e morbidi, con formaggio filante. 🥔</li>
+                <li><strong>Frittatine di pasta</strong> – Pasta, besciamella, piselli e salame. 🍝</li>
+                <li><strong>Panzerotti</strong> – Ripieni di mozzarella e pomodoro, fritti o al forno. 🌯</li>
+                <li><strong>Mozzarelline impanate</strong> – Piccoli bocconcini di mozzarella fritta. 🧀</li>
+                <li><strong>Verdure in pastella</strong> – Zucchine, melanzane e altro, fritte al momento. 🥦</li>
+            </ul>
+        </section>
+    </main>
+
+</body>
+</html>
